@@ -1,4 +1,5 @@
-module ssov1
+module github.com/sariya23/sso_proto
+
 
 go 1.23.0
 
